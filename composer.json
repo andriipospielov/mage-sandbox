@@ -1,0 +1,10 @@
+{
+    "name": "posp/mage_sandbox",
+    "authors": [
+        {
+            "name": "Andriy Pospielov",
+            "email": "andriypospielov@gmail.com"
+        }
+    ],
+    "require": {}
+}
